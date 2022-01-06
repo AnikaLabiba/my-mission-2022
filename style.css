@@ -81,7 +81,9 @@ a{
 }
 #think-positive{
     text-align: center;
-    background-color: rgb(215, 197, 233);
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
     border-radius: 6px;
     box-shadow: 10px 10px 40px rgb(209, 171, 224);
     margin-left: 20%;
